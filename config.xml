@@ -7,7 +7,7 @@
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only --> 
-	<preference name='phonegap-version' value='3.5' />
+	<preference name='phonegap-version' value='3.7' />
     <name>Alnwick Playhouse concert Band</name>
 
     <description>
